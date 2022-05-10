@@ -1,3 +1,3 @@
 # patika-react-1
 
-[Patikadev](www.patika.dev)
+[Patikadev](https://www.patika.dev)
